@@ -27,8 +27,8 @@ Coming soon!
 
 ## Contact
 
-- [GitHub — @oleafm](https://github.com/oleafm)
-- [LinkedIn](https://www.linkedin.com/in/fomaolga/)
+- GitHub: https://github.com/oleafm
+- LinkedIn: https://www.linkedin.com/in/fomaolga/
 - Email: fomaolga@icloud.com
 
 ---
