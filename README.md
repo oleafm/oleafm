@@ -1,6 +1,6 @@
 # AI & Workflow Automation
 
-Digital product developer specialising in API integrations, workflow architecture and AI-powered business processes.
+Digital product developer and designer | API integrations | Workflow architecture and AI-powered business processes.
 
 **AI & Workflow Automation | Low-Code Development | API Integrations**
 
