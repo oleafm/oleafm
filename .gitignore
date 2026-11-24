@@ -1,0 +1,22 @@
+# Local credentials and configuration
+.env
+.env.*
+!.env.example
+credentials/
+secrets/
+*.pem
+*.key
+
+# Unreviewed exports, private data and execution payloads
+private/
+raw-exports/
+real-customer-data/
+logs/
+*.log
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
