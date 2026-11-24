@@ -15,7 +15,7 @@ I have practical experience with REST APIs, webhooks, backend workflows and data
 
 ### Established experience
 
-Bubble.io · REST APIs · Webhooks · OAuth · Database architecture · Backend workflows · Stripe and third-party integrations · Git/GitHub
+Bubble.io · REST APIs · Webhooks · Database architecture · Backend workflows · Stripe and third-party integrations · Git/GitHub
 
 ### Currently developing
 
@@ -28,8 +28,7 @@ Coming soon!
 ## Contact
 
 - [GitHub — @oleafm](https://github.com/oleafm)
-- Portfolio website: **Placeholder — add URL**
-- LinkedIn: **Placeholder — add URL**
+- [LinkedIn](https://www.linkedin.com/in/fomaolga/)
 - Email: fomaolga@icloud.com
 
 ---
