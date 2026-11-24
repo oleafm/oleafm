@@ -30,7 +30,3 @@ Coming soon!
 - GitHub: https://github.com/oleafm
 - LinkedIn: https://www.linkedin.com/in/fomaolga/
 - Email: fomaolga@icloud.com
-
----
-
-[Portfolio maintenance guide](MAINTENANCE.md)
