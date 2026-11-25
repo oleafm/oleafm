@@ -5,11 +5,10 @@ Digital product developer and designer.
 **Low-Code Development | API Integrations | AI & Workflow Automation**
 
 ## About
+I'm a Certified Bubble.io Developer and UI/UX Designer with approximately 8 years of commercial Bubble.io and digital product development experience. Hands-on with REST APIs, webhooks, backend workflows and database structures, including third-party integrations with Stripe, PandaDoc, SendGrid and other business services.
 
-I'm a Certified Bubble.io Developer and UI/UX Designer with approximately eight years of commercial Bubble.io and digital product development experience. My work spans SaaS products, CRMs, marketplaces, internal tools and multi-role applications. 
-I'm expanding into AI-powered workflow automation through Make.com, LLM integrations.
-
-I have practical experience with REST APIs, webhooks, backend workflows and database structures, including integrations with Stripe, PandaDoc, SendGrid and other business services.
+My work includes automating business processes, connecting external services, solving technical problems, and improving existing applications using low-code technologies 
+across SaaS products, CRMs, marketplaces, internal tools and multi-role applications. I'm expanding into AI-powered workflow automation through Make.com, LLM integrations.
 
 ## Technology stack
 
